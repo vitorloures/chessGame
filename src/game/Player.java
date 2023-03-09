@@ -1,7 +1,10 @@
-package org.example;
+package chess.game;
 
+import lombok.Data;
+
+@Data
 public class Player {
-    String name;
-    PlayerColor color;
+    private String name;
+    private PlayerColor color;
 
 }

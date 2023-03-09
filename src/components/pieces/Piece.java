@@ -1,6 +1,6 @@
-package org.example.pieces;
+package chess.components.pieces;
 
-import org.example.PlayerColor;
+import chess.game.PlayerColor;
 
 public interface Piece {
 

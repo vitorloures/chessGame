@@ -1,4 +1,4 @@
-package org.example;
+package chess.game;
 
 public enum PlayerColor {
     WHITE, BLACK;

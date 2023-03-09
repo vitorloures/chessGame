@@ -1,4 +1,4 @@
-package org.example;
+package chess.components;
 
 public class Coordinate {
     private int[] matrixCoordinate;

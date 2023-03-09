@@ -4,6 +4,8 @@ This project aims at:
 
 ## Learning goals
 
+- [ ] Java concepts
+  - [ ] Collections
 - [ ] Expertise in Java OOP
 - [ ] Best Practices in Java
 - [ ] Lombok: Reduce boilerplate code

@@ -1,4 +1,6 @@
-package org.example;
+package chess.game;
+
+import chess.components.Position;
 
 public class MoveRecord {
 
