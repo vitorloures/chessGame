@@ -1,4 +1,6 @@
 package org.example;
 
-public class Coordinates {
+public class Coordinate {
+    private int[] matrixCoordinate;
+    private String[] boardCoordinate;
 }

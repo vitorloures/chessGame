@@ -4,15 +4,19 @@ import java.util.ArrayList;
 import java.util.List;
 
 public class Game {
-    ArrayList<Player> players;
+    Player[] players;
     Board board;
     List<MoveRecord> movesHistory;
+    PlayerColor playerOnTurn;
+
 
     public Game() {
-
+        // TODO: Dependency injection using guice
+        this.players = new Player[2];
+        this.board = new Board();
     }
 
-    void reset() {
+    public void reset() {
 
     }
 
